@@ -22,15 +22,24 @@ Vous trouverez ici les sites et applications web que j’ai réalisés dans le c
 
 ## 📁 Project List / Liste des projets
 
-🔹 Each folder contains its own `README.md` with:
-- A project description
-- The technologies used
-- A live demo if available
+🔹 Each project includes a dedicated `README.md` with:  
+- A description of the project  
+- The technologies used  
+- A live demo (if available)  
 
-🔹 Chaque dossier contient son propre `README.md` avec :
-- Une description du projet
-- Les technologies utilisées
-- Une démo en ligne si disponible
+🔹 Chaque projet contient un `README.md` dédié avec :  
+- Une description du projet  
+- Les technologies utilisées  
+- Une démo en ligne (si disponible)  
+
+---
+
+| 📸 Project Name | 💻 GitHub Code | 🌐 Live Demo |
+|----------------|----------------|--------------|
+| **portfolio-photographer-nina** | [View Code](https://github.com/Stanislas-Mainguy/portfolio-photographer-nina) | [Live Demo](https://stanislas-mainguy.github.io/portfolio-photographer-nina/) |
+| **kasa-react-housing-platform** | [View Code](https://github.com/Stanislas-Mainguy/kasa-react-housing-platform) | [Live Demo](https://stanislas-mainguy.github.io/kasa-react-housing-platform/) |
+| **ohmyfood-mobile-first** | [View Code](https://github.com/Stanislas-Mainguy/ohmyfood-mobile-first) | [Live Demo](https://stanislas-mainguy.github.io/ohmyfood-mobile-first/) |
+| **booki-static-website** | [View Code](https://github.com/Stanislas-Mainguy/booki-static-website) | [Live Demo](https://stanislas-mainguy.github.io/booki-static-website/) |
 
 ---
 
